@@ -1,0 +1,8 @@
+bin
+build
+include
+lib
+restkit
+socketpool
+*.pyc
+*.pyo
